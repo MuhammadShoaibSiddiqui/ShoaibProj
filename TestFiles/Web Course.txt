@@ -1,0 +1,20 @@
+· Html And CSS Basics
+· Page Section And CSS Box Model
+· Floating And Positioning
+· Basic PHP
+· Html Forms
+· Server Browser Interaction
+· Form Validations and Regular Expression
+· Advanced PHP and Web Frameworks
+· Basic JavaScript for Client Side Programming
+· More JavaScript and DOM
+· Object-Oriented JavaScript
+· Advanced JavaScript and DOM
+· Manipulating DOM with JavaScript
+· DOM Events
+· Advanced Events and Client Side Validations
+· Asynchronous JavaScript and XML (AJAX)
+· Web Services
+· Rich Client Side and RIA
+· Cookies and Sessions
+· MVC Framework
